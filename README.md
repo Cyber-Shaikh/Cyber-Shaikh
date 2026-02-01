@@ -1,16 +1,20 @@
-## Hi there 👋
+# Muzaffar Moosa Shaikh
 
-<!--
-**Cyber-Shaikh/Cyber-Shaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Global IT Service Desk & Application Support Engineer with hands-on experience supporting enterprise users across India and international regions.
 
-Here are some ideas to get you started:
+I work in SLA-driven enterprise environments providing end-user and application support with a strong focus on Microsoft-based IT operations, identity and access management, and endpoint support. I am experienced in handling incidents and service requests end-to-end while maintaining clear communication and strong ticket ownership.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Expertise
+- IT Service Desk Operations (ITIL / ITSM)
+- Microsoft 365 Administration
+- Azure AD (Entra ID) & Identity Management
+- Endpoint & Device Support (Windows 10/11, iOS)
+- Microsoft Intune (MDM)
+- Application & Access Support
+
+## Global Support Exposure
+India | United States | LATAM | Middle East
+
+## Contact
+- LinkedIn: https://linkedin.com/in/cyber-shaikh
+- Email: mmshaikh.tech@gmail.com
